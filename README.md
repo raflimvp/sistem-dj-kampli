@@ -1,2 +1,0 @@
-# sistem-dj-kampli
-Web
